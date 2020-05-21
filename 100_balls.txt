@@ -1,0 +1,507 @@
+{
+  "player": {
+    "color": "white",
+    "radius": 20,
+    "position": [300, 220]
+  },
+  "1": {
+    "color": "black",
+    "radius": 10,
+    "position": [890, 200]
+  },
+  "2": {
+    "color": "black",
+    "radius": 10,
+    "position": [920, 200]
+  },
+  "3": {
+    "color": "black",
+    "radius": 10,
+    "position": [950, 200]
+  },
+  "4": {
+    "color": "black",
+    "radius": 10,
+    "position": [980, 200]
+  },
+  "5": {
+    "color": "black",
+    "radius": 10,
+    "position": [1010, 200]
+  },
+  "6": {
+    "color": "black",
+    "radius": 10,
+    "position": [1040, 200]
+  },
+  "7": {
+    "color": "black",
+    "radius": 10,
+    "position": [1070, 200]
+  },
+  "8": {
+    "color": "black",
+    "radius": 10,
+    "position": [1100, 200]
+  },
+  "9": {
+    "color": "black",
+    "radius": 10,
+    "position": [1130, 200]
+  },
+  "10": {
+    "color": "black",
+    "radius": 10,
+    "position": [1160, 200]
+  },
+  "11": {
+    "color": "black",
+    "radius": 10,
+    "position": [1190, 200]
+  },
+  "12": {
+    "color": "black",
+    "radius": 10,
+    "position": [1220, 200]
+  },
+  "13": {
+    "color": "black",
+    "radius": 10,
+    "position": [1250, 200]
+  },
+  "14": {
+    "color": "black",
+    "radius": 10,
+    "position": [1280, 200]
+  },
+  "15": {
+    "color": "black",
+    "radius": 10,
+    "position": [1310, 200]
+  },
+  "16": {
+    "color": "black",
+    "radius": 10,
+    "position": [1340, 200]
+  },
+  "17": {
+    "color": "black",
+    "radius": 10,
+    "position": [1370, 200]
+  },
+  "18": {
+    "color": "black",
+    "radius": 10,
+    "position": [1400, 200]
+  },
+  "19": {
+    "color": "black",
+    "radius": 10,
+    "position": [1430, 200]
+  },
+  "20": {
+    "color": "black",
+    "radius": 10,
+    "position": [1460, 200]
+  },
+  "21": {
+    "color": "black",
+    "radius": 10,
+    "position": [1490, 200]
+  },
+  "22": {
+    "color": "black",
+    "radius": 10,
+    "position": [1520, 200]
+  },
+  "23": {
+    "color": "black",
+    "radius": 10,
+    "position": [1550, 200]
+  },
+  "24": {
+    "color": "black",
+    "radius": 10,
+    "position": [1580, 200]
+  },
+  "25": {
+    "color": "black",
+    "radius": 10,
+    "position": [1610, 200]
+  },
+  "26": {
+    "color": "black",
+    "radius": 10,
+    "position": [1640, 200]
+  },
+  "27": {
+    "color": "black",
+    "radius": 10,
+    "position": [1670, 200]
+  },
+  "28": {
+    "color": "black",
+    "radius": 10,
+    "position": [1700, 200]
+  },
+  "29": {
+    "color": "black",
+    "radius": 10,
+    "position": [1730, 200]
+  },
+  "30": {
+    "color": "black",
+    "radius": 10,
+    "position": [1760, 200]
+  },
+  "31": {
+    "color": "black",
+    "radius": 10,
+    "position": [1790, 200]
+  },
+  "32": {
+    "color": "black",
+    "radius": 10,
+    "position": [1820, 200]
+  },
+  "33": {
+    "color": "black",
+    "radius": 10,
+    "position": [890, 230]
+  },
+  "34": {
+    "color": "black",
+    "radius": 10,
+    "position": [920, 230]
+  },
+  "35": {
+    "color": "black",
+    "radius": 10,
+    "position": [950, 230]
+  },
+  "36": {
+    "color": "black",
+    "radius": 10,
+    "position": [980, 230]
+  },
+  "37": {
+    "color": "black",
+    "radius": 10,
+    "position": [1010, 230]
+  },
+  "38": {
+    "color": "black",
+    "radius": 10,
+    "position": [1040, 230]
+  },
+  "39": {
+    "color": "black",
+    "radius": 10,
+    "position": [1070, 230]
+  },
+  "40": {
+    "color": "black",
+    "radius": 10,
+    "position": [1100, 230]
+  },
+  "41": {
+    "color": "black",
+    "radius": 10,
+    "position": [1130, 230]
+  },
+  "42": {
+    "color": "black",
+    "radius": 10,
+    "position": [1160, 230]
+  },
+  "43": {
+    "color": "black",
+    "radius": 10,
+    "position": [1190, 230]
+  },
+  "44": {
+    "color": "black",
+    "radius": 10,
+    "position": [1220, 230]
+  },
+  "45": {
+    "color": "black",
+    "radius": 10,
+    "position": [1250, 230]
+  },
+  "46": {
+    "color": "black",
+    "radius": 10,
+    "position": [1280, 230]
+  },
+  "47": {
+    "color": "black",
+    "radius": 10,
+    "position": [1310, 230]
+  },
+  "48": {
+    "color": "black",
+    "radius": 10,
+    "position": [1340, 230]
+  },
+  "49 ": {
+    "color": "black",
+    "radius": 10,
+    "position": [1370, 230]
+  },
+  "50": {
+    "color": "black",
+    "radius": 10,
+    "position": [1400, 230]
+  },
+  "51": {
+    "color": "black",
+    "radius": 10,
+    "position": [1430, 230]
+  },
+  "52": {
+    "color": "black",
+    "radius": 10,
+    "position": [1460, 230]
+  },
+  "53": {
+    "color": "black",
+    "radius": 10,
+    "position": [1490, 230]
+  },
+  "54": {
+    "color": "black",
+    "radius": 10,
+    "position": [1520, 230]
+  },
+  "55": {
+    "color": "black",
+    "radius": 10,
+    "position": [1550, 230]
+  },
+  "56": {
+    "color": "black",
+    "radius": 10,
+    "position": [1580, 230]
+  },
+  "57": {
+    "color": "black",
+    "radius": 10,
+    "position": [1610, 230]
+  },
+  "58": {
+    "color": "black",
+    "radius": 10,
+    "position": [1640, 230]
+  },
+  "59": {
+    "color": "black",
+    "radius": 10,
+    "position": [1670, 230]
+  },
+  "60": {
+    "color": "black",
+    "radius": 10,
+    "position": [1700, 230]
+  },
+  "61": {
+    "color": "black",
+    "radius": 10,
+    "position": [1730, 230]
+  },
+  "62": {
+    "color": "black",
+    "radius": 10,
+    "position": [1760, 230]
+  },
+  "63": {
+    "color": "black",
+    "radius": 10,
+    "position": [1790, 230]
+  },
+  "64": {
+    "color": "black",
+    "radius": 10,
+    "position": [1820, 230]
+  },
+  "65": {
+    "color": "black",
+    "radius": 10,
+    "position": [890, 260]
+  },
+  "66": {
+    "color": "black",
+    "radius": 10,
+    "position": [920, 260]
+  },
+  "67": {
+    "color": "black",
+    "radius": 10,
+    "position": [950, 260]
+  },
+  "68": {
+    "color": "black",
+    "radius": 10,
+    "position": [980, 260]
+  },
+  "69": {
+    "color": "black",
+    "radius": 10,
+    "position": [1010, 260]
+  },
+  "70": {
+    "color": "black",
+    "radius": 10,
+    "position": [1040, 260]
+  },
+  "71": {
+    "color": "black",
+    "radius": 10,
+    "position": [1070, 260]
+  },
+  "72": {
+    "color": "black",
+    "radius": 10,
+    "position": [1100, 260]
+  },
+  "73": {
+    "color": "black",
+    "radius": 10,
+    "position": [1130, 260]
+  },
+  "74": {
+    "color": "black",
+    "radius": 10,
+    "position": [1160, 260]
+  },
+  "75": {
+    "color": "black",
+    "radius": 10,
+    "position": [1190, 260]
+  },
+  "76": {
+    "color": "black",
+    "radius": 10,
+    "position": [1220, 260]
+  },
+  "77": {
+    "color": "black",
+    "radius": 10,
+    "position": [1250, 260]
+  },
+  "78": {
+    "color": "black",
+    "radius": 10,
+    "position": [1280, 260]
+  },
+  "79": {
+    "color": "black",
+    "radius": 10,
+    "position": [1310, 260]
+  },
+  "80": {
+    "color": "black",
+    "radius": 10,
+    "position": [1340, 260]
+  },
+  "81": {
+    "color": "black",
+    "radius": 10,
+    "position": [1370, 260]
+  },
+  "82": {
+    "color": "black",
+    "radius": 10,
+    "position": [1400, 260]
+  },
+  "83": {
+    "color": "black",
+    "radius": 10,
+    "position": [1430, 260]
+  },
+  "84": {
+    "color": "black",
+    "radius": 10,
+    "position": [1460, 260]
+  },
+  "85": {
+    "color": "black",
+    "radius": 10,
+    "position": [1490, 260]
+  },
+  "86": {
+    "color": "black",
+    "radius": 10,
+    "position": [1520, 260]
+  },
+  "87": {
+    "color": "black",
+    "radius": 10,
+    "position": [1550, 260]
+  },
+  "88": {
+    "color": "black",
+    "radius": 10,
+    "position": [1580, 260]
+  },
+  "89": {
+    "color": "black",
+    "radius": 10,
+    "position": [1610, 260]
+  },
+  "90": {
+    "color": "black",
+    "radius": 10,
+    "position": [1640, 260]
+  },
+  "91": {
+    "color": "black",
+    "radius": 10,
+    "position": [1670, 260]
+  },
+  "92": {
+    "color": "black",
+    "radius": 10,
+    "position": [1700, 260]
+  },
+  "93": {
+    "color": "black",
+    "radius": 10,
+    "position": [1730, 260]
+  },
+  "94": {
+    "color": "black",
+    "radius": 10,
+    "position": [1760, 260]
+  },
+  "95": {
+    "color": "black",
+    "radius": 10,
+    "position": [1790, 260]
+  },
+  "96": {
+    "color": "black",
+    "radius": 10,
+    "position": [1820, 260]
+  },
+  "97": {
+    "color": "black",
+    "radius": 10,
+    "position": [890, 290]
+  },
+  "98": {
+    "color": "black",
+    "radius": 10,
+    "position": [920, 290]
+  },
+  "99": {
+    "color": "black",
+    "radius": 10,
+    "position": [950, 290]
+  },
+  "100": {
+    "color": "black",
+    "radius": 10,
+    "position": [980, 290]
+  }
+}
