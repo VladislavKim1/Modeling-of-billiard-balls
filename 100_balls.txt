@@ -1,8 +1,8 @@
 {
   "player": {
     "color": "white",
-    "radius": 20,
-    "position": [300, 220]
+    "radius": 60,
+    "position": [300, 250]
   },
   "1": {
     "color": "black",
