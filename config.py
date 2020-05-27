@@ -16,7 +16,7 @@ field_width = screen_width - 2 * field_x
 field_height = screen_height - 2 * field_y
 
 last_time = 0
-stop_speed = 0
+stop_speed = 0 #ball deceleration coefficient
 #stop_speed = 0.0005
 max_speed = 5
 acceleration = 500
