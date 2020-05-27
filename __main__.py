@@ -26,10 +26,10 @@ class Ball:
         """
         Ball constructor
         """
-        self.color: str = color
-        self.radius: float = radius
+        self.color = color
+        self.radius = radius
         self.m = radius * 10  # weight
-        self.location: dict = dict()
+        self.location = dict()
         self.location['x'] = location[0]
         self.location['y'] = location[1]  # ball_1_centre_x, y
         self.ball = canvas.create_oval(self.location['x'] - self.radius,  # ball_1
@@ -101,11 +101,11 @@ def update():
             ball_one.speed_y /= 1 + stop_speed
             ball_one.speed_x /= 1 + stop_speed
 
-            buf_balls: list = balls.copy()
+            buf_balls = balls.copy()
             del buf_balls[index]
 
             for ball_two in buf_balls:
-                strike: bool = False
+                strike = False
                 R = ball_one.radius + ball_two.radius
 
                 max_x = field_x + field_width - border_width - ball_one.radius
@@ -124,8 +124,8 @@ def update():
                 if sigma_next <= R:
                     strike = True
                     sigma = sqrt(pow((ball_one.location['x'] - ball_two.location['x']), 2) + pow((ball_one.location['y'] - ball_two.location['y']), 2))
-                    dr: tuple = (ball_two.location['x'] - ball_one.location['x'], ball_two.location['y'] - ball_one.location['y'])
-                    du: tuple = (ball_two.speed_x - ball_one.speed_x, ball_two.speed_y - ball_one.speed_y)
+                    dr = (ball_two.location['x'] - ball_one.location['x'], ball_two.location['y'] - ball_one.location['y'])
+                    du = (ball_two.speed_x - ball_one.speed_x, ball_two.speed_y - ball_one.speed_y)
                     J = (2 * ball_one.m * ball_two.m * vector_multiplication(du, dr)) / (sigma * (ball_one.m + ball_two.m))
 
                     drx = ball_two.location['x'] - ball_one.location['x']
