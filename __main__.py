@@ -1,6 +1,6 @@
 from ball import balls, canvas, root
 from config import *
-# from config_test import *
+#from config_test import *
 from update import update, start_balls, make_holes
 
 
@@ -30,20 +30,4 @@ def main():
 
 if __name__ == '__main__':
     main()
-
-
-    last_time = cur_time
-    root.after(1, update)
-
-
-if __name__ == '__main__':
-    board(canvas)
-    with open(balls_filename) as f:
-        for ball_name, struct in json.load(f).items():
-            balls.append(Ball(struct['position'], struct['color'], struct['radius']))
-
-    root.bind("<Key>", key)
-
-    update()
-    root.mainloop()
 
